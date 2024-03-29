@@ -28,6 +28,7 @@ public class Main {
         String i = sc.nextLine();
         System.out.println(Logics.getEqualsStudents().toString());
         System.out.println();
+        System.out.println();
 
     }
 }
