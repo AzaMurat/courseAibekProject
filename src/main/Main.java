@@ -27,6 +27,7 @@ public class Main {
         System.out.println("live in");
         String i = sc.nextLine();
         System.out.println(Logics.getEqualsStudents().toString());
+        System.out.println();
 
     }
 }
